@@ -1,1 +1,1 @@
-prompt("Hello Hackers I am 0xhof")
+alert("Hello Hackers I am 0xhof")
